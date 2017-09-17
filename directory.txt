@@ -1,0 +1,6 @@
+21 orvi dddd 1
+23 nazib ddd 1
+21 nazib dass 1
+21 orvi dass 0
+21 orvi hh 0
+22 nn 11 22
